@@ -11,7 +11,7 @@ import com.example.entity.Book;
 @org.springframework.stereotype.Controller
 public class Controller {
 
-	@GetMapping("/getAll")
+	@GetMapping("/")
 	public String getBookData(Model model)
 	{
 		Book b=new Book(1,"java",45.90);
