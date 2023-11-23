@@ -33,14 +33,3 @@ build/
 .vscode/
 .classpath
 
-.factorypath
-
-.project
-
-.settings
-
-target
-HELP.md
-.mvn
-mvnw
-mvnw.cmd
